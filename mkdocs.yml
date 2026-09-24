@@ -40,4 +40,4 @@ markdown_extensions:
 
 nav:
   - Главная: index.md
-  - Дандер-методы (самопроверка): lessons/dunder_methods.md
+  - Дандер-методы: lessons/dunder_methods.md
